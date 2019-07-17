@@ -3,7 +3,8 @@
     "version": "5.5.0",
     "description": "Semver as UMD module",
     "scripts": {
-        "build": "webpack"
+        "build": "webpack",
+        "prepublish": "webpack"
     },
     "repository": {
         "type": "git",
