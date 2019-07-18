@@ -2,6 +2,7 @@
     "name": "semver-umd",
     "version": "5.5.1",
     "description": "Semver as UMD module",
+    "main": "lib/semver-umd.js",
     "scripts": {
         "build": "webpack",
         "prepublish": "webpack"
