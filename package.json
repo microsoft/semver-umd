@@ -1,6 +1,6 @@
 {
     "name": "semver-umd",
-    "version": "5.5.2",
+    "version": "5.5.3",
     "description": "Semver as UMD module",
     "main": "lib/semver-umd.js",
     "scripts": {
