@@ -3,6 +3,7 @@
     "version": "5.5.3",
     "description": "Semver as UMD module",
     "main": "lib/semver-umd.js",
+    "typings": "semver-umd.d.ts",
     "scripts": {
         "build": "webpack",
         "prepublish": "webpack"
