@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
     entry: 'semver',
-    devtool: 'inline-source-map',
+    devtool: 'source-map',
     mode: 'production',
     output: {
         path: path.resolve(__dirname, 'lib'),
